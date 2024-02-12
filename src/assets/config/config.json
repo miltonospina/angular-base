@@ -1,0 +1,8 @@
+{
+    "auth": {
+        "issuer" : "https://accounts.google.com",
+        "clientId": "",
+        "responseType": "code",
+        "scope": "openid profile email"
+    }
+}
